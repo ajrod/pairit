@@ -19,7 +19,7 @@ these changes in real time. We made it so that there could only be one person ed
 and one or more navigators. The driver and navigator could easily switch at any time.
 
 To make collaboration efficent we added syntax highlighting for several languages (such as Python), 
-syntax checking, a chat window you, and you could upload a file by dragging and droping new files into the editor. 
+syntax checking, a chat window, and you could upload a file by dragging and droping new files into the editor. 
 Finally, once your done editing the file you could export the file, to a gist or download it.
 
 ![PairIt Snapshot 1](https://raw.github.com/ajrod/pairit/master/snapshot1.png "PairIt Snapshot 1")
@@ -71,9 +71,9 @@ to finish April 3rd, 2013.
 
 Disclaimer about PairIt's code
 -----
-None of us had any experience in node, sockets or any of the other technologies used but we thought it would be exciting to 
-learn as we go. Combine this with the extreme time constraints and the pressure of a hackathon to create your product in 24 hrs and 
-you have a recipe for dirty code! So I warn you, some of the code is inefficient and just plain ugly; 
+None of us had any experience in node, socket.io or any of the other technologies used but we thought it would be exciting to 
+learn as we go. Combine this with the extreme time constraints and the pressure of a hackathon to create your product in 24 hrs 
+and you have a recipe for dirty code! So I warn you, some of the code is inefficient and just plain ugly; 
 many sacrifices needed to be made for immediate gains and anyone who wants to look at the code may find it 
 painful to read. 
 
